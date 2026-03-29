@@ -6,12 +6,12 @@ import urequests
 import time
 
 #WiFi 
-WIFI_SSID     = "iotlab"
-WIFI_PASSWORD = "@50Ghana"
+WIFI_SSID     = "your WIFI_SSID  "
+WIFI_PASSWORD = "your WIFI_PASSWORD"
 
 #Telegram notification
-TELEGRAM_TOKEN   = "8732753716:AAEcevS4KoXXuoBpqCUGDgJfOIgH-4moPdY"
-TELEGRAM_CHAT_ID = "6218203651"
+TELEGRAM_TOKEN   = "your TELEGRAM_TOKEN "
+TELEGRAM_CHAT_ID = "your TELEGRAM_CHAT_ID"
 
 # BME280 
 BME280_ADDRESS = 0x76

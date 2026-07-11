@@ -244,4 +244,4 @@ The `DRY_CONFIRM_COUNT = 3` setting requires 3 consecutive dry readings (15 seco
 
 ## Author
 
-Built as an mid-semester academic IoT project demonstrating autonomous weather-responsive embedded systems design by Ametepey Duke Dela Brightton and Tatchie Emmanuel
+Built as an mid-semester academic IoT project demonstrating autonomous weather-responsive embedded systems design by Ametepey Duke Dela Brighton and Tatchie Emmanuel
